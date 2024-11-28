@@ -1,0 +1,31 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Django-specific files
+db.sqlite3
+/media/
+/staticfiles/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
